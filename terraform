@@ -1,0 +1,26 @@
+**50% Achievement:**
+
+- **Objective:** Gain foundational Terraform knowledge and create basic resource deployments.
+    - Become familiar with core Terraform concepts (resources, providers, state, modules).
+    - Install and configure Terraform on a local machine.
+    - Develop simple Terraform configurations to deploy essential  resources in a test environment (e.g., virtual machines).
+    - Learn and apply fundamental Terraform commands (init, plan, apply, destroy).
+    - Create basic documentation of terraform deployment processes.
+    
+
+**100% Achievement:**
+
+- **Objective:** Implement Terraform to automate deployments of specific production infrastructure components within Vpshere.
+    - Develop reusable Terraform modules for Vpshere resource deployments.
+    - Automate the deployment of key production infrastructure components within Vsphere using Terraform.
+
+
+
+
+- **150% Achievement:**
+
+- **Objective:** Expand Terraform's role to manage the  Azure infrastructure.
+    - Develop advanced Terraform modules for deploying and managing Azure services.
+    - Integrate Terraform with Azure.
+    - Implement automated systems to detect and remediate configuration drift in Azure resources (out of standard VM deployments, etc..)
+    
