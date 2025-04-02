@@ -1,0 +1,21 @@
+ICINGA to NAGIOS migration.
+
+**50% Achievement:**
+
+- **Objective:** Preparation and planning of the migration.
+    - Become familiar with ICINGA functionalities, and configurations.
+    - Inventory all monitored hosts, services, and their respective ICINGA configurations.
+    - Create basic documentation for alternative of ICINGA service checks in Nagios and ITcockpit.
+
+**100% Achievement:**
+
+- **Objective:** Execute the migration and establish core monitoring functionality.
+    - Migrate ICINGA configurations to Nagios, including hosts, services, checks, and notifications.
+    - Conduct thorough testing of Nagios and ITcockpit functionality, ensuring accurate monitoring of critical services.
+    - Enable ticket generation and priority differentiation of the tickets based on the performance data provided by the service checks, as requested by our partner.
+
+**150% Achievement:**
+
+- **Objective:** Optimize Nagios and ITcockpit, implement advanced features, and improve monitoring efficiency to mirror the ICINGA monitoring.
+
+    - Develop custom checks and plugins for Nagios to address the specific organizational needs and to mirror ICINGA functionalities, if needed.
